@@ -10,5 +10,16 @@ In New York 78.5% of the population is finding a way to get to work other than d
 ## Summary
 To conclude we would not recommend a bike sharing service in Des Moines.  We do believe that population plays a roll in the feasibility of a ride share service but does not prohibit smaller cities from supporting one.  A service like citibike is scalable however there are several factors that we found to be major red flags.  First, the population density being so much lower means that their would either need to be more than bikes per rider or that the bike stations would be further apart.  Second, the workforce does not to have the motivation for  finding alternative transportation.  This is evident not only because of the percentage of people who are driving themself to work but also because the commute times are much more managable.  We would conditionally recomend a more limitted ride sharing service to service the city center only.  In the map below we have mapped out the 14 largest attractions in Des Moines.  Of those 9 are within a mile and a half of each other in the down town area.  This leads me to believe that on a smaller scale a bike sharing service could work.
 
+## Sources
+New York Citibike Data<br/>
+2019 August New York data from citibike website<br/>
+<br/>
+Des Moines Population Data<br/>
+US Census<br/>
+<br/>
+Des Moines Top Attractions<br/>
+Midwestliving.com<br/>
+catchdesmoines.com<br/>
+
 ## Tableau Story
 My Tableau Story can be found [here.](https://public.tableau.com/profile/rudy7195#!/vizhome/Des_Moines_Citibike_Challenge/CitibikeChallenge?publish=yes)
